@@ -5,16 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 16 March 2023
+From: 15 March 2023 - To: 17 March 2023
 
-Total Time: 1 hr 50 mins
+Total Time: 1 hr 58 mins
 
-Markdown      1 hr 29 mins    >>>>>>>>>>>>>>>>>>>>-----   81.48 %
-YAML          13 mins         >>>----------------------   12.52 %
-Java          4 mins          >------------------------   04.51 %
-JavaScript    0 secs          -------------------------   00.68 %
-CSS           0 secs          -------------------------   00.64 %
-Objective-C   0 secs          -------------------------   00.17 %
+Markdown      1 hr 37 mins    >>>>>>>>>>>>>>>>>>>>>----   82.32 %
+YAML          14 mins         >>>----------------------   11.96 %
+Java          4 mins          >------------------------   04.21 %
+JavaScript    0 secs          -------------------------   00.75 %
+CSS           0 secs          -------------------------   00.60 %
+Objective-C   0 secs          -------------------------   00.16 %
 Other         0 secs          -------------------------   00.01 %
 ```
 
