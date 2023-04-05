@@ -4,7 +4,7 @@
 - 👀 I’m interested in compilers and robotics
 - 🌱 I’m currently learning rust
 
-[![Saaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPoovathumkadavil)](https://github.com/anuraghazra/github-readme-stats)
+[![Saaleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPoovathumkadavil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
